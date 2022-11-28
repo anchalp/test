@@ -1,5 +1,10 @@
 Cypress API Automation
 
+How to run :
+
+1. "OpenCypress": "npx cypress open",
+2. "RunCypress": "npx cypress run",
+
 Approach -
 
 1. I tried looking API information on trengo API reference but didnt get any info on custom channel creation API,then I used inspect element to identify the end point and payload for request which I used for automation .
